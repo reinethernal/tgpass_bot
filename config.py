@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 # Этот токен
-token = 'TOKEN_HERE'
+token = 'YOUR_BOT_TOKEN_HERE'
 
 #Пользователи с доступом
-tg_username = ['tgid']
+users = ['YOUR_TELEGRAM_USERNAME_HERE']
 
 
 
