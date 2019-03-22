@@ -31,7 +31,7 @@ dispatcher = updater.dispatcher
 
 #Users = ['ReinEthernal']
 
-logfile = "/home/tgbot/bot2.log"
+logfile = "/home/tgbot/bot.log"
 
 def logString(s):
     f=open(logfile, "at")
