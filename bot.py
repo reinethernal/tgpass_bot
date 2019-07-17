@@ -87,11 +87,5 @@ dispatcher.add_handler(CommandHandler('help', help))
 dispatcher.add_handler(CommandHandler('getpass', getpass))
 dispatcher.add_handler(CommandHandler('start', start))
 
-
-
-#print( gp4 ("462-0"));
-
-#print(gp4('100-3'))
-
 updater.start_polling()
 
